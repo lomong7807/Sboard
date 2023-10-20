@@ -1,4 +1,4 @@
-#/lotteon/.github/workflows/deloy.yml
+#/Sboard/.github/workflows/deloy.yml
 # workflow의 이름
 name: Deploy
 
